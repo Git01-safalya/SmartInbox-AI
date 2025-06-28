@@ -10,7 +10,7 @@ It is built for the **AI & Automation Unpacked Hackathon (June 2025)** and prior
 
 * 🧠 Runs locally using **Granite 3.2 8B** via Ollama
 * 📧 Connects to Gmail using IMAP and App Password
-* ✍️ Summarizes **unread emails only**
+* ✍️ Summarizes **unread emails**
 * ✅ Automatically marks fetched emails as read
 * 🖥️ Interactive UI built with **Streamlit**
 * 🔒 No cloud API needed – works fully offline
@@ -71,23 +71,10 @@ IBM Granite gives us trusted, open-source LLM capabilities **without requiring c
 
 ---
 
-## 🧾 License
-
-MIT License – Use, modify, and share freely.
-
----
-
-## 🤝 Contributors
-
-* Safalya (Developer, Presenter)
-* IBM Granite Team (Model)
-* Ollama (Local inference engine)
-
----
 
 ## 📹 Demo Video
 
-🎬 [Watch the 3-minute demo](https://your-demo-link-here.com)
+🎬 [Watch the 3-minute demo] (https://youtu.be/UI1gd6UXJfw)
 
 ---
 
@@ -98,5 +85,5 @@ smartinbox-ai/
 ├── app.py                # Streamlit app
 ├── email_reader.py       # Gmail fetch logic
 ├── requirements.txt
-├── README.md             # You’re here
+├── README.md            
 ```
